@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Petz/static/css/main.bbe8a94e.css",
+    "main.js": "/Petz/static/js/main.13cd7ae9.js",
+    "index.html": "/Petz/index.html",
+    "main.bbe8a94e.css.map": "/Petz/static/css/main.bbe8a94e.css.map",
+    "main.13cd7ae9.js.map": "/Petz/static/js/main.13cd7ae9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbe8a94e.css",
+    "static/js/main.13cd7ae9.js"
+  ]
+}
